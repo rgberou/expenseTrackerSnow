@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-11 02:01:38</sys_created_on>
+        <sys_id>7f0a532e47351110289c1bd8c26d43b4</sys_id>
+        <sys_name>x_669811_expense_assets.x_669811_expense.expense_user</sys_name>
+        <sys_package display_value="Expense" source="x_669811_expense">2dd7df6a47351110289c1bd8c26d4321</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense">2dd7df6a47351110289c1bd8c26d4321</sys_scope>
+        <sys_security_acl display_value="x_669811_expense_assets">3b0a532e47351110289c1bd8c26d43b1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7f0a532e47351110289c1bd8c26d43b4</sys_update_name>
+        <sys_user_role display_value="x_669811_expense.expense_user" name="x_669811_expense.expense_user">f5d7df6a47351110289c1bd8c26d4329</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
